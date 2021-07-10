@@ -1,6 +1,7 @@
 html {
 }
 body {
+    margin:0px
 }
 
 img {
@@ -67,15 +68,16 @@ nav a:hover::after {
 footer{
     margin:0px;
     background:black;
-    height:100px;
+    height:120px;
 }
 footer ul{
-    margin:5px;
+    /* margin:5px; */
+    margin:0px;
     padding:15px 0px 0px;
 }
 footer nav a{
     color:white;
 }
 footer nav a::after {
-  background: white;    
+  background: white;
 }    
