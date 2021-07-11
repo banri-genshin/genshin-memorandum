@@ -1,10 +1,10 @@
 .container{
-    display:flex;
+    display:flex;    
 }
 
 .col.span-1{
-    width: 70%;
+    width: 60%;
 }
 .col.span-2{
-    width: 30%;
+    width: 40%;
 }
