@@ -1,0 +1,10 @@
+.container{
+    display:flex;    
+}
+
+.col.span-1{
+    width: 60%;
+}
+.col.span-2{
+    width: 40%;
+}
